@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "title": "I dont know",
+      "title": "Keine Ahnung",
       "artist": "Ich",
       "year": 2019,
       "img": "I am a url",
@@ -9,16 +9,16 @@
       "id": "1568387157969"
     },
     {
-      "title": "Popel",
-      "artist": "Ich",
+      "title": "Auch keine Ahnung",
+      "artist": "ich",
       "year": 2019,
       "img": "I am a url",
       "price": 40,
       "id": "1568387159950"
     },
     {
-      "title": "Something eeeeelse",
-      "artist": "Ich",
+      "title": "Immer noch keine Ahnung",
+      "artist": "ich",
       "year": 2019,
       "img": "I am a url",
       "price": 40,
@@ -27,10 +27,11 @@
   ],
   "users": [
     {
-      "username": "Wasabis",
-      "email": "lolito@gmail.com",
-      "pass": 2019,
+      "username": "Patrick",
+      "email": "p.seidel.1987@gmail.com",
+      "pass": 2022,
       "id": "1568627672633"
     }
-  ]
+  ],
+  "orders": []
 }
